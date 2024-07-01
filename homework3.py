@@ -1,8 +1,8 @@
-name = 'Maxim'
+name = 'Name: Maxim'
 print(name)
 age = 25
-print(age)
+print('Age:', age)
 age = age + 2
-print(age)
+print('New age:', age)
 is_student = True
-print(is_student)
+print('Is student:', is_student)
