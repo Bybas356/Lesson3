@@ -1,5 +1,5 @@
-name = 'Name: Maxim'
-print(name)
+name = 'Maxim'
+print('Name:', name)
 age = 25
 print('Age:', age)
 age = age + 2
